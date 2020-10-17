@@ -1,1 +1,7 @@
 /* Add here all your css styles (customizations) */
+
+
+.cbp-l-filters-button .cbp-filter-item{
+  padding: 0 24px;
+  border-color: #f1c40f;
+}

@@ -5,19 +5,27 @@ var OwlCarousel = function () {
         //Owl Carousel
         initOwlCarousel: function () {
 	        //Owl Slider v1
-			jQuery(".owl-slider").owlCarousel({
-                itemsDesktop : [1000,5],
-                itemsDesktopSmall : [900,4],
-                itemsTablet: [600,3],
-                itemsMobile : [479,2]
+            jQuery(document).ready(function() {
+                //Owl Slider
+                jQuery(document).ready(function() {
+                var owl = jQuery(".owl-slider");
+                    owl.owlCarousel({
+                        items: [4],
+                        itemsDesktop : [1000,3], //3 items between 1000px and 901px
+                        itemsDesktopSmall : [979,2], //2 items between 901px
+                        itemsTablet: [600,1], //1 items between 600 and 0;
+                        slideSpeed: 1000
+                    });
+
+                    // Custom Navigation Events
+                    jQuery(".next").click(function(){
+                        owl.trigger('owl.next');
+                    })
+                    jQuery(".prev").click(function(){
+                        owl.trigger('owl.prev');
+                    })
+                });
             });
-            // Custom Navigation Events
-            jQuery(".next-v1").click(function(){
-                owl.trigger('owl.next');
-            })
-            jQuery(".prev-v1").click(function(){
-                owl.trigger('owl.prev');
-            })
 
 
 	        //Owl Slider v2

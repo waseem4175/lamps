@@ -1,0 +1,16 @@
+.rgba-banner {
+    top: 20px;
+    right: -5px;
+    color: #fff;
+    font-size: 14px;
+    padding: 3px 8px;
+    font-weight: 600;
+    position: absolute;
+    text-transform: uppercase;
+}
+.shop-rgba-red {
+    background: rgba(201,37,60,0.5);
+}
+.shop-rgba-dark-green {
+    background: rgba(24,171,155,0.5);
+}

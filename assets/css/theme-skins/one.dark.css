@@ -56,7 +56,7 @@ body.dark .top-nav-collapse.navbar-default .navbar-nav > li > a:before {
 body.dark .top-nav-collapse .navbar-nav > .active > a, 
 body.dark .top-nav-collapse .navbar-nav > .active > a:hover, 
 body.dark .top-nav-collapse .navbar-nav > .active > a:focus {
-    color: #72c02c;
+    color: #f1c40f;
 }
 
 /*Content*/
