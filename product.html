@@ -3,7 +3,7 @@
 <!--[if IE 9]> <html lang="en" class="ie9"> <![endif]-->  
 <!--[if !IE]><!--> <html lang="en"> <!--<![endif]-->  
 <head>
-    <title>Salt Lamps | Himalian</title>
+    <title>Salt Lamps | Himalaya Salt</title>
 
     <!-- Meta -->
     <meta charset="utf-8">
@@ -57,7 +57,7 @@ The data-spy and data-target are part of the built-in Bootstrap scrollspy functi
                 </button>
                 
                 <a class="navbar-brand" href="#intro">
-                    <span>H</span>imalyan
+                    <span>H</span>imalaya Salt
                     <!-- <img src="assets/img/logo1.png" alt="Logo"> -->
                 </a>
             </div>
@@ -124,11 +124,13 @@ The data-spy and data-target are part of the built-in Bootstrap scrollspy functi
                         <li><i class="rating-selected fa fa-star"></i></li>
                         <li><i class="rating-selected fa fa-star"></i></li>
                         <li><i class="rating-selected fa fa-star"></i></li>
+                        <li><i class="rating-selected fa fa-star"></i></li>
                         <li><i class="rating fa fa-star"></i></li>
-                        <li><i class="rating fa fa-star"></i></li>
+                        <!--
                         <li class="product-review-list">
                             <span>(1) <a href="#">Review</a> | <a href="#"> Add Review</a></span>
                         </li>
+                        -->
                     </ul><!--/end shop product ratings-->
 
                     <p id="description">Integer <strong>dapibus ut elit</strong> non volutpat. Integer auctor purus a lectus suscipit fermentum. Vivamus lobortis nec erat consectetur elementum.</p><br>
@@ -195,7 +197,7 @@ The data-spy and data-target are part of the built-in Bootstrap scrollspy functi
                             <a href="#">Add to Compare</a>
                         </li>
                     </ul> -->
-                    <p class="wishlist-category"><strong>Categories:</strong> <a href="#">Clothing,</a> <a href="#">Shoes</a></p>
+                    <p class="wishlist-category"><strong>Categories:</strong> <a id="category" href="#">Clothing</a></p>
                 </div>
             </div><!--/end row-->
         </div>    
@@ -214,10 +216,11 @@ The data-spy and data-target are part of the built-in Bootstrap scrollspy functi
             <div class="row contacts-in">
                 <div class="col-md-6 md-margin-bottom-40">
                     <ul class="list-unstyled">
-                        <li><i class="fa fa-home"></i> 5B Streat, City 50987 New Town US</li>
-                        <li><i class="fa fa-phone"></i> 1(800) 220 084</li>
-                        <li><i class="fa fa-envelope"></i> <a href="info@example.com">info@example.com</a></li>
-                        <li><i class="fa fa-globe"></i> <a href="http://htmlstream.com">www.htmlstream.com</a></li>
+                        <li><i class="fa fa-home"></i> Rippolingerstr 7, 79736 Rickenbach</li>
+                        <li><i class="fa fa-phone"></i> +49 7761 1063</li>
+                        <li><i class="fa fa-phone"></i> +49 1521 580 5539</li>
+                        <li><i class="fa fa-envelope"></i> <a href="himalayasalt@gmx.de">himalayasalt@gmx.de</a></li>
+                        <li><i class="fa fa-globe"></i> <a href="http://himalayasalt.de">www.himalayasalt.de</a></li>
                     </ul>
                 </div>
 
@@ -317,6 +320,7 @@ The data-spy and data-target are part of the built-in Bootstrap scrollspy functi
         document.getElementById('description').innerHTML= product.desc;
         document.getElementById('saleprice').innerHTML= product.saleprice;
         document.getElementById('oldprice').innerHTML= product.oldprice;
+        document.getElementById('category').innerHTML= product.category;
     
     </script>
 

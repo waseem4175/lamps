@@ -195,7 +195,7 @@ li:first-child {
 .illustration-v1.illustration-img2 {
   width: 100%;
   overflow: hidden;
-  background-image: url(../img/blog/08.jpg);
+  background-image: url(../img/portfolio/banners/lamps.jpg);
   transition: all 0.3s ease-in-out;
   -o-transition: all 0.3s ease-in-out;
   -moz-transition: all 0.3s ease-in-out;
@@ -245,6 +245,60 @@ li:first-child {
   font-weight: normal;
   text-transform: uppercase;
 }
+
+/* ------------------------------------*/
+
+.illustration-v1.illustration-img3 {
+  width: 100%;
+  overflow: hidden;
+  background-image: url(../img/portfolio/banners/tiles.jpg);
+  transition: all 0.3s ease-in-out;
+  -o-transition: all 0.3s ease-in-out;
+  -moz-transition: all 0.3s ease-in-out;
+  -webkit-transition: all 0.3s ease-in-out;
+}
+
+.illustration-v1.illustration-img3:hover {
+  -transform: scale(1.05);
+  -o-transform: scale(1.05);
+  -moz-transform: scale(1.05);
+  -webkit-transform: scale(1.05);
+}
+
+.illustration-v1.illustration-img4 {
+  width: 100%;
+  overflow: hidden;
+  background-image: url(../img/portfolio/banners/edible.jpeg);
+  transition: all 0.3s ease-in-out;
+  -o-transition: all 0.3s ease-in-out;
+  -moz-transition: all 0.3s ease-in-out;
+  -webkit-transition: all 0.3s ease-in-out;
+}
+
+.illustration-v1.illustration-img4:hover {
+  -transform: scale(1.05);
+  -o-transform: scale(1.05);
+  -moz-transform: scale(1.05);
+  -webkit-transform: scale(1.05);
+}
+
+.illustration-v1.illustration-img5 {
+  width: 100%;
+  overflow: hidden;
+  background-image: url(../img/portfolio/banners/lick.jpg);
+  transition: all 0.3s ease-in-out;
+  -o-transition: all 0.3s ease-in-out;
+  -moz-transition: all 0.3s ease-in-out;
+  -webkit-transition: all 0.3s ease-in-out;
+}
+
+.illustration-v1.illustration-img5:hover {
+  -transform: scale(1.05);
+  -o-transform: scale(1.05);
+  -moz-transform: scale(1.05);
+  -webkit-transform: scale(1.05);
+}
+
 
 /*Illustration v2
 ------------------------------------*/
