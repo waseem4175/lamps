@@ -13,7 +13,7 @@ const data = [
     "oldprice": "€3.50/kg", 
     "saleprice": "€2.79/kg", 
     "slug": "pink-salt", 
-    "src": "assets/img/portfolio/edible/ancient-ocean-himalayan-pink-salt-coarse-bowl.jpg", 
+    "src": "../assets/img/portfolio/edible/ancient-ocean-himalayan-pink-salt-coarse-bowl.jpg", 
     "title": "Pink Salt by Himalayan Salts" 
   }, 
   { 
@@ -23,7 +23,7 @@ const data = [
     "oldprice": "€ 3.60/kg ", 
     "saleprice": "€3.00/kg", 
     "slug": "fine-pink-salt", 
-    "src": "assets/img/portfolio/edible/ancient-ocean-himalayan-pink-salt-fine-bowl.jpg", 
+    "src": "../assets/img/portfolio/edible/ancient-ocean-himalayan-pink-salt-fine-bowl.jpg", 
     "title": "Fine Pink Salt by Himalayan Salts" 
   }, 
   { 
@@ -33,7 +33,7 @@ const data = [
     "oldprice": "€3.99/kg ", 
     "saleprice": "€3.55/kg ", 
     "slug": "granular-pink-salt",  
-    "src": "assets/img/portfolio/edible/ancient-ocean-himalayan-pink-salt-small-bowl.jpg", 
+    "src": "../assets/img/portfolio/edible/ancient-ocean-himalayan-pink-salt-small-bowl.jpg", 
     "title": "Granular Salt by Himalayan Salts" 
   }, 
   { 
@@ -43,7 +43,7 @@ const data = [
     "oldprice": "€3.50/kg ", 
     "saleprice": "€3.00/kg ", 
     "slug": "iodized-salt",  
-    "src": "assets/img/portfolio/edible/iodized-salt-fine-bowl.jpg", 
+    "src": "../assets/img/portfolio/edible/iodized-salt-fine-bowl.jpg", 
     "title": "Iodized Salt by Himalayan Salts" 
   }, 
   { 
@@ -53,7 +53,7 @@ const data = [
     "oldprice": "€9.00/500g", 
     "saleprice": "€7.5/500g ", 
     "slug": "black-salt",  
-    "src": "assets/img/portfolio/edible/kala-namak-indian-black-salt.jpg",  
+    "src": "../assets/img/portfolio/edible/kala-namak-indian-black-salt.jpg",  
     "title": "Black Salt by Himalayan Salts" 
   }, 
   { 
@@ -63,7 +63,7 @@ const data = [
     "oldprice": "€20.00/500g", 
     "saleprice": "€19.00/500g", 
     "slug": "australian-sea-salt",  
-    "src": "assets/img/portfolio/edible/paragon-australian-sea-salt-fine-bowl.jpg",  
+    "src": "../assets/img/portfolio/edible/paragon-australian-sea-salt-fine-bowl.jpg",  
     "title": "Australian Sea Salt by Himalayan Salts" 
   }, 
   { 
@@ -73,7 +73,7 @@ const data = [
     "oldprice": "€20.00", 
     "saleprice": "€18.00", 
     "slug": "ocean-salt",  
-    "src": "assets/img/portfolio/edible/pure-ocean-premium-sea-salt-fine-bulk-bowl.jpg",  
+    "src": "../assets/img/portfolio/edible/pure-ocean-premium-sea-salt-fine-bulk-bowl.jpg",  
     "title": "Ocean Salt by Himalayan Salts" 
   }, 
   { 
@@ -85,7 +85,7 @@ const data = [
     "slug": "angel-salt-lamp",  
     "size": "20x15x7cm", 
     "weight": "2.5-3 kg", 
-    "src": "assets/img/portfolio/lamps/angel.png",  
+    "src": "../assets/img/portfolio/lamps/angel.png",  
     "title": "Angel Salt Lamp by Himalayan Salts" 
 
   }, 
@@ -98,7 +98,7 @@ const data = [
     "slug": "boat-salt-lamp",  
     "size": "15x15cm", 
     "weight": "2.5-3 kg", 
-    "src": "assets/img/portfolio/lamps/boat.png",  
+    "src": "../assets/img/portfolio/lamps/boat.png",  
     "title": "Boat Salt Lamp by Himalayan Salts" 
   }, 
   { 
@@ -110,7 +110,7 @@ const data = [
     "slug": "bowl-salt-lamp",  
     "size": "15x15 cm", 
     "weight": "2-2.5 kg", 
-    "src": "assets/img/portfolio/lamps/bowl.png",  
+    "src": "../assets/img/portfolio/lamps/bowl.png",  
     "title": "Bowl Salt Lamp by Himalayan Salts" 
   }, 
   { 
@@ -122,7 +122,7 @@ const data = [
     "slug": "bowl-2-salt-lamp",  
     "size": "15x10x15 cm", 
     "weight": "3-3.5 kg", 
-    "src": "assets/img/portfolio/lamps/bowl-2.jpg",  
+    "src": "../assets/img/portfolio/lamps/bowl-2.jpg",  
     "title": "Bowl Salt Lamp by Himalayan Salts" 
 
   }, 
@@ -135,7 +135,7 @@ const data = [
     "slug": "bullet-salt-lamp",  
     "size": "8-10 cm", 
     "weight": "1 kg", 
-    "src": "assets/img/portfolio/lamps/bullet.png",   
+    "src": "../assets/img/portfolio/lamps/bullet.png",   
     "title": "Bullet Salt Lamp by Himalayan Salts" 
 
   }, 
@@ -148,7 +148,7 @@ const data = [
     "slug": "cactus-salt-lamp",  
     "size": "15-20 cm", 
     "weight": "2.5-3 kg", 
-    "src": "assets/img/portfolio/lamps/cactus.png",   
+    "src": "../assets/img/portfolio/lamps/cactus.png",   
     "title": "Cactus Salt Lamp by Himalayan Salts" 
   }, 
   { 
@@ -160,7 +160,7 @@ const data = [
     "slug": "cave-salt-lamp",  
     "size": "10x11x13 cm", 
     "weight": "1.5-2 kg", 
-    "src": "assets/img/portfolio/lamps/cave.png",   
+    "src": "../assets/img/portfolio/lamps/cave.png",   
     "title": "Cave Salt Lamp by Himalayan Salts" 
   }, 
   { 
@@ -172,7 +172,7 @@ const data = [
     "slug": "christmas-tree-salt-lamp",  
     "size": "17-20 cm", 
     "weight": "2-2.5 kg", 
-    "src": "assets/img/portfolio/lamps/christmas-tree.png",   
+    "src": "../assets/img/portfolio/lamps/christmas-tree.png",   
     "title": "Christmas Tree Salt Lamp by Himalayan Salts" 
   }, 
   { 
@@ -184,7 +184,7 @@ const data = [
     "slug": "cross-salt-lamp",  
     "size": "25x25x10 cm", 
     "weight": "2-2.5 kg", 
-    "src": "assets/img/portfolio/lamps/cross.png",   
+    "src": "../assets/img/portfolio/lamps/cross.png",   
     "title": "Cross Salt Lamp by Himalayan Salts" 
   }, 
   { 
@@ -196,7 +196,7 @@ const data = [
     "slug": "cubical-salt-lamp",  
     "size": "20x20x24 cm", 
     "weight": "4.5-6 kg", 
-    "src": "assets/img/portfolio/lamps/cubical-1.jpg",   
+    "src": "../assets/img/portfolio/lamps/cubical-1.jpg",   
     "title": "Cubical Salt Lamp by Himalayan Salts" 
   }, 
   { 
@@ -208,7 +208,7 @@ const data = [
     "slug": "cubical-2-salt-lamp",  
     "size": "10x10x12 cm", 
     "weight": "2-2.5 kg", 
-    "src": "assets/img/portfolio/lamps/cubical-2.png",   
+    "src": "../assets/img/portfolio/lamps/cubical-2.png",   
     "title": "Cubical Salt Lamp by Himalayan Salts" 
   }, 
   { 
@@ -220,7 +220,7 @@ const data = [
     "slug": "cubical-3-salt-lamp",  
     "size": "20x20x24 cm", 
     "weight": "4.5-6 kg", 
-    "src": "assets/img/portfolio/lamps/cubical-3.png",   
+    "src": "../assets/img/portfolio/lamps/cubical-3.png",   
     "title": "Cubical Salt Lamp by Himalayan Salts" 
   }, 
   { 
@@ -232,7 +232,7 @@ const data = [
     "slug": "cylinderical-salt-lamp",  
     "size": "16x10 cm", 
     "weight": "2-2.5 kg", 
-    "src": "assets/img/portfolio/lamps/cylinder.png",   
+    "src": "../assets/img/portfolio/lamps/cylinder.png",   
     "title": "Cylinderical Salt Lamp by Himalayan Salts" 
   }, 
   { 
@@ -244,7 +244,7 @@ const data = [
     "slug": "date-salt-lamp",  
     "size": "15x15x10 cm", 
     "weight": "2-2.5 kg", 
-    "src": "assets/img/portfolio/lamps/date.png",   
+    "src": "../assets/img/portfolio/lamps/date.png",   
     "title": "Date Salt Lamp by Himalayan Salts" 
   }, 
   { 
@@ -256,7 +256,7 @@ const data = [
     "slug": "diamond-salt-lamp",  
     "size": "15x12x12 cm", 
     "weight": "2.5-3 kg", 
-    "src": "assets/img/portfolio/lamps/diamond.png",   
+    "src": "../assets/img/portfolio/lamps/diamond.png",   
     "title": "Diamond Salt Lamp by Himalayan Salts" 
   }, 
   { 
@@ -268,7 +268,7 @@ const data = [
     "slug": "diamond-2-salt-lamp",  
     "size": "15x12x12 cm", 
     "weight": "2.5-3 kg", 
-    "src": "assets/img/portfolio/lamps/dimaond-2.png",   
+    "src": "../assets/img/portfolio/lamps/dimaond-2.png",   
     "title": "Diamond Salt Lamp by Himalayan Salts" 
   }, 
   { 
@@ -280,7 +280,7 @@ const data = [
     "slug": "dollar-salt-lamp",  
     "size": "10x10x7 cm", 
     "weight": "2.5-3 kg", 
-    "src": "assets/img/portfolio/lamps/dollar.png",   
+    "src": "../assets/img/portfolio/lamps/dollar.png",   
     "title": "Dollar Salt Lamp by Himalayan Salts" 
   }, 
   { 
@@ -292,7 +292,7 @@ const data = [
     "slug": "drum-salt-lamp",  
     "size": "15x15x15 cm", 
     "weight": "1-1.5 kg", 
-    "src": "assets/img/portfolio/lamps/drum.png",   
+    "src": "../assets/img/portfolio/lamps/drum.png",   
     "title": "Drum Salt Lamp by Himalayan Salts" 
   }, 
   { 
@@ -304,7 +304,7 @@ const data = [
     "slug": "egg-salt-lamp",  
     "size": "15x15 cm", 
     "weight": "2.5-3.5 kg", 
-    "src": "assets/img/portfolio/lamps/egg.png",   
+    "src": "../assets/img/portfolio/lamps/egg.png",   
     "title": "Egg Salt Lamp by Himalayan Salts" 
   }, 
   { 
@@ -316,7 +316,7 @@ const data = [
     "slug": "eye-salt-lamp",  
     "size": "13x8x5 cm", 
     "weight": "1-1.5 kg", 
-    "src": "assets/img/portfolio/lamps/eye.png",   
+    "src": "../assets/img/portfolio/lamps/eye.png",   
     "title": "Eye Salt Lamp by Himalayan Salts" 
   }, 
   { 
@@ -328,7 +328,7 @@ const data = [
     "slug": "fire-bowl-salt-lamp",  
     "size": "15x10x10 cm", 
     "weight": "3-3.5 kg", 
-    "src": "assets/img/portfolio/lamps/fire-bowl.png",   
+    "src": "../assets/img/portfolio/lamps/fire-bowl.png",   
     "title": "Fire Bowl Salt Lamp by Himalayan Salts" 
   }, 
   { 
@@ -340,7 +340,7 @@ const data = [
     "slug": "flame-salt-lamp",  
     "size": "10x8 cm", 
     "weight": "1 kg", 
-    "src": "assets/img/portfolio/lamps/flame.png",   
+    "src": "../assets/img/portfolio/lamps/flame.png",   
     "title": "Flame Salt Lamp by Himalayan Salts" 
   }, 
   { 
@@ -352,7 +352,7 @@ const data = [
     "slug": "flower-salt-lamp",  
     "size": "10x10x10 cm", 
     "weight": "1-1.5 kg", 
-    "src": "assets/img/portfolio/lamps/flower.png",   
+    "src": "../assets/img/portfolio/lamps/flower.png",   
     "title": "Flower Salt Lamp by Himalayan Salts" 
   }, 
   { 
@@ -364,7 +364,7 @@ const data = [
     "slug": "flower-2-salt-lamp",  
     "size": "20x15 cm", 
     "weight": "3-3.5 kg", 
-    "src": "assets/img/portfolio/lamps/flower-2.png",   
+    "src": "../assets/img/portfolio/lamps/flower-2.png",   
     "title": "Flower Salt Lamp by Himalayan Salts" 
   }, 
   { 
@@ -376,7 +376,7 @@ const data = [
     "slug": "fort-salt-lamp",  
     "size": "20-25 cm", 
     "weight": "3-3.5 kg", 
-    "src": "assets/img/portfolio/lamps/fort.png",   
+    "src": "../assets/img/portfolio/lamps/fort.png",   
     "title": "Fort Salt Lamp by Himalayan Salts" 
   }, 
   { 
@@ -388,7 +388,7 @@ const data = [
     "slug": "globe-salt-lamp",  
     "size": "15x15 cm", 
     "weight": "2.5-3 kg", 
-    "src": "assets/img/portfolio/lamps/globe-1.jpg",   
+    "src": "../assets/img/portfolio/lamps/globe-1.jpg",   
     "title": "Globe Salt Lamp by Himalayan Salts" 
   }, 
   { 
@@ -400,7 +400,7 @@ const data = [
     "slug": "globe-2-salt-lamp",  
     "size": "15x15 cm", 
     "weight": "2.5-3 kg", 
-    "src": "assets/img/portfolio/lamps/globe-2.png",   
+    "src": "../assets/img/portfolio/lamps/globe-2.png",   
     "title": "Globe Salt Lamp by Himalayan Salts" 
   }, 
   { 
@@ -412,7 +412,7 @@ const data = [
     "slug": "heart-salt-lamp",  
     "size": "10x10 cm", 
     "weight": "1 kg", 
-    "src": "assets/img/portfolio/lamps/heart.png",   
+    "src": "../assets/img/portfolio/lamps/heart.png",   
     "title": "Heart Salt Lamp by Himalayan Salts" 
   }, 
   { 
@@ -424,7 +424,7 @@ const data = [
     "slug": "heart-2-salt-lamp",  
     "size": "10x17x17 cm", 
     "weight": "3-3.5 kg", 
-    "src": "assets/img/portfolio/lamps/heart-2.png",   
+    "src": "../assets/img/portfolio/lamps/heart-2.png",   
     "title": "Heart Salt Lamp by Himalayan Salts" 
   }, 
   { 
@@ -436,7 +436,7 @@ const data = [
     "slug": "leaf-salt-lamp",  
     "size": "15x20 cm", 
     "weight": "2.5-3 kg", 
-    "src": "assets/img/portfolio/lamps/leaf.png", 
+    "src": "../assets/img/portfolio/lamps/leaf.png", 
     "title": "Leaf Salt Lamp by Himalayan Salts" 
   }, 
   { 
@@ -448,7 +448,7 @@ const data = [
     "slug": "leaf-2-salt-lamp",  
     "size": "10x12 cm", 
     "weight": "1 kg", 
-    "src": "assets/img/portfolio/lamps/leaf-2.png",   
+    "src": "../assets/img/portfolio/lamps/leaf-2.png",   
     "title": "Leaf Salt Lamp by Himalayan Salts" 
   }, 
   { 
@@ -460,7 +460,7 @@ const data = [
     "slug": "lotus-salt-lamp",  
     "size": "20x15 cm", 
     "weight": "3-3.5 kg", 
-    "src": "assets/img/portfolio/lamps/lotus.png",   
+    "src": "../assets/img/portfolio/lamps/lotus.png",   
     "title": "Lotus Salt Lamp by Himalayan Salts" 
   }, 
   { 
@@ -472,7 +472,7 @@ const data = [
     "slug": "mushroom-salt-lamp",  
     "size": "20x15x10 cm", 
     "weight": "2.5-3 kg", 
-    "src": "assets/img/portfolio/lamps/mushroom.png",   
+    "src": "../assets/img/portfolio/lamps/mushroom.png",   
     "title": "Mushroom Salt Lamp by Himalayan Salts" 
   }, 
   { 
@@ -484,7 +484,7 @@ const data = [
     "slug": "4 Candles salt lamp",  
     "size": "15x10 cm", 
     "weight": "2-2.5 kg", 
-    "src": "assets/img/portfolio/lamps/natural-1.png",   
+    "src": "../assets/img/portfolio/lamps/natural-1.png",   
     "title": "Natural Salt Lamp by Himalayan Salts"  
   }, 
   { 
@@ -496,7 +496,7 @@ const data = [
     "slug": "octane-salt-lamp",  
     "size": "15x20 cm", 
     "weight": "2.5-3 kg", 
-    "src": "assets/img/portfolio/lamps/octacone.png",   
+    "src": "../assets/img/portfolio/lamps/octacone.png",   
     "title": "Octane Salt Lamp by Himalayan Salts" 
   }, 
   { 
@@ -508,7 +508,7 @@ const data = [
     "slug": "orchid-salt-lamp",  
     "size": "10x10x20 cm", 
     "weight": "2.5-3 kg", 
-    "src": "assets/img/portfolio/lamps/orchid.png",   
+    "src": "../assets/img/portfolio/lamps/orchid.png",   
     "title": "Orchid Salt Lamp by Himalayan Salts" 
   }, 
   { 
@@ -520,7 +520,7 @@ const data = [
     "slug": "oval-salt-lamp",  
     "size": "15x15x20 cm", 
     "weight": "3.5-5 kg", 
-    "src": "assets/img/portfolio/lamps/oval.jpg",   
+    "src": "../assets/img/portfolio/lamps/oval.jpg",   
     "title": "Oval Salt Lamp by Himalayan Salts" 
   }, 
   { 
@@ -532,7 +532,7 @@ const data = [
     "slug": "palm-salt-lamp",  
     "size": "20x15x10 cm", 
     "weight": "2.5-3 kg", 
-    "src": "assets/img/portfolio/lamps/palm.png",   
+    "src": "../assets/img/portfolio/lamps/palm.png",   
     "title": "Palm Salt Lamp by Himalayan Salts" 
   }, 
   { 
@@ -544,7 +544,7 @@ const data = [
     "slug": "pyramid-salt-lamp",  
     "size": "15x20 cm", 
     "weight": "2.5-3 kg", 
-    "src": "assets/img/portfolio/lamps/pyramid.png",   
+    "src": "../assets/img/portfolio/lamps/pyramid.png",   
     "title": "Pyramid Salt Lamp by Himalayan Salts" 
   }, 
   { 
@@ -556,7 +556,7 @@ const data = [
     "slug": "pyramid-2-salt-lamp",  
     "size": "15x20 cm", 
     "weight": "2.5-3 kg", 
-    "src": "assets/img/portfolio/lamps/pyramid-2.jpg",   
+    "src": "../assets/img/portfolio/lamps/pyramid-2.jpg",   
     "title": "Pyramid Salt Lamp by Himalayan Salts" 
   }, 
   { 
@@ -567,7 +567,7 @@ const data = [
     "slug": "rectangular-salt-lamp",  
     "size": " 15x6 cm", 
     "weight": "1-1.5 kg", 
-    "src": "assets/img/portfolio/lamps/rectanular-1.png",   
+    "src": "../assets/img/portfolio/lamps/rectanular-1.png",   
     "title": "Rectangular Salt Lamp by Himalayan Salts" 
   }, 
   { 
@@ -579,7 +579,7 @@ const data = [
     "slug": "rectangular-2-salt-lamp",  
     "size": "18x6 cm", 
     "weight": "1.5-2 kg", 
-    "src": "assets/img/portfolio/lamps/rectanular-2.png",   
+    "src": "../assets/img/portfolio/lamps/rectanular-2.png",   
     "title": "Rectangular Salt Lamp by Himalayan Salts" 
   
  
@@ -593,7 +593,7 @@ const data = [
     "slug": "rectangular-3-salt-lamp",  
     "size": "10x6 cm ", 
     "weight": "1 kg", 
-    "src": "assets/img/portfolio/lamps/rectanular-3.png",   
+    "src": "../assets/img/portfolio/lamps/rectanular-3.png",   
     "title": "Rectangular Salt Lamp by Himalayan Salts" 
   }, 
   { 
@@ -605,7 +605,7 @@ const data = [
     "slug": "rectangular-4-salt-lamp",  
     "size": "20x6 cm", 
     "weight": "2-2.5 kg", 
-    "src": "assets/img/portfolio/lamps/rectanular-4.png",   
+    "src": "../assets/img/portfolio/lamps/rectanular-4.png",   
     "title": "Rectangular Salt Lamp by Himalayan Salts" 
   }, 
   { 
@@ -617,7 +617,7 @@ const data = [
     "slug": "round-salt-lamp",  
     "size": "8-10 cm", 
     "weight": "1 kg", 
-    "src": "assets/img/portfolio/lamps/round.png",   
+    "src": "../assets/img/portfolio/lamps/round.png",   
     "title": "Round Salt Lamp by Himalayan Salts" 
   }, 
   { 
@@ -630,7 +630,7 @@ const data = [
     "size": " 20x20x4 cm", 
     "weight": "3-3.5 kg", 
  
-    "src": "assets/img/portfolio/tiles/circle-block.jpg",   
+    "src": "../assets/img/portfolio/tiles/circle-block.jpg",   
     "title": "Circular Salt Block by Himalayan Salts" 
   }, 
   { 
@@ -642,7 +642,7 @@ const data = [
     "slug": "rectangular-salt-brick", 
     "size": " 20x10x2.5 cm", 
     "weight": "1-1.5 kg",  
-    "src": "assets/img/portfolio/tiles/rect_brick.jpg",   
+    "src": "../assets/img/portfolio/tiles/rect_brick.jpg",   
     "title": "Rectangular Salt Brick by Himalayan Salts" 
   }, 
   { 
@@ -655,7 +655,7 @@ const data = [
     "size": "20x20x2.5 cm", 
     "weight": "kg", 
    
-    "src": "assets/img/portfolio/tiles/rect-plate.jpg",   
+    "src": "../assets/img/portfolio/tiles/rect-plate.jpg",   
     "title": "Rectangular Salt Plate by Himalayan Salts" 
   }, 
   { 
@@ -668,7 +668,7 @@ const data = [
     "size": " 20x20x4 cm", 
     "weight": "3-3.5 kg", 
  
-    "src": "assets/img/portfolio/tiles/circle-2.png",   
+    "src": "../assets/img/portfolio/tiles/circle-2.png",   
     "title": "Circular Salt Tile by Himalayan Salts" 
   }, 
   { 
@@ -681,7 +681,7 @@ const data = [
     "size": " cm", 
     "weight": "kg", 
   
-    "src": "assets/img/portfolio/lick/lick-1.png",   
+    "src": "../assets/img/portfolio/lick/lick-1.png",   
     "title": "Animal Lick Salt by Himalayan Salts" 
   }, 
   { 
@@ -691,7 +691,7 @@ const data = [
     "oldprice": "€3.50/kg", 
     "saleprice": "€1.90/kg", 
     "slug": "animal-2-lick-salt",  
-    "src": "assets/img/portfolio/lick/lick-2.png",   
+    "src": "../assets/img/portfolio/lick/lick-2.png",   
     "title": "Animal Lick Salt by Himalayan Salts" 
   }, 
   { 
@@ -701,7 +701,7 @@ const data = [
     "oldprice": "€5.00/kg", 
     "saleprice": "€3.50/kg", 
     "slug": "salt-lick-lumps",  
-    "src": "assets/img/portfolio/lick/lick-lumps.png",   
+    "src": "../assets/img/portfolio/lick/lick-lumps.png",   
     "title": "Salt Lick Lump by Himalayan Salts" 
 
   }]

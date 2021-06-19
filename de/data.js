@@ -1,32 +1,29 @@
 const categories = { 
-  edible: "Edible Salts", 
-  lamps: "Salt Lamps", 
-  tiles: "Salt Tiles", 
-  lick: "Lick Salts" 
+  edible: "Speisesalze Salt", 
+  lamps: "Salzlampen", 
+  tiles: "Salzfliesen", 
+  lick: "Lecksalze" 
 } 
  
 const data = [ 
   { 
     "category": "edible", 
-    "desc": "Grobes pures pinkfarbenes Himalaya Salz ist unraffiniert und somit zu 100% naturrein. Himalaya Salz ist die  reinste Form von Salz und das Salz enthält Mineralien die für den menschlichen Körper  sehr wichtig sind.
-Pink gefärbtes Himalaya Salz hat seine Farbe durch den Eisengehalt. Das Vorkommen und die Abbau Methoden garantieren eine besonders hohe Reinheit. Da ist ein großer Unterschied zwischen Himalaya Salz und Meersalz. Himalaya Salz garantiert 100% Reinheit und das Meersalz ist durch Mikroplastik verunreinigt sowie durch Erdölreste und sonstige Verschmutzungen Umweltgifte. Dies allein ist ein Plädoyer wert und gute Argumente für Himalaya Salz zu sein da keinerlei Umweltgifte zu finden sind. Zudem hebt es sich durch die schöne Farbe von herkömmlichen Speisesalzen ab. Es ist sehr bekannt durch das erschienenen Buch 2001 “Wasser und Salz Urquell des Lebens”.Wasser und Salz ist lebensnotwendig für uns Menschen um zu existieren.Die lebensnotwendige Stellung des Salzes hängt von den Eigenschaften des Salzes ab.Es ist gut zum Würzen in der Küche man kann auch einen Beauty Tag einlegen denn es ist ein hervorragendes Badesalz. Wir bieten Himalaya Salz in zwei verschiedenen Farben an hellrosa und dunkelrosa. 
-Das grobe pink Himalaya Salz ist zwischen 2-5 mm groß.
-", 
+    "desc": "Grobes pures pinkfarbenes Himalaya Salz ist unraffiniert und somit zu 100% naturrein. Himalaya Salz ist die  reinste Form von Salz und das Salz enthält Mineralien die für den menschlichen Körper  sehr wichtig sind. Pink gefärbtes Himalaya Salz hat seine Farbe durch den Eisengehalt. Das Vorkommen und die Abbau Methoden garantieren eine besonders hohe Reinheit. Da ist ein großer Unterschied zwischen Himalaya Salz und Meersalz. Himalaya Salz garantiert 100% Reinheit und das Meersalz ist durch Mikroplastik verunreinigt sowie durch Erdölreste und sonstige Verschmutzungen Umweltgifte. Dies allein ist ein Plädoyer wert und gute Argumente für Himalaya Salz zu sein da keinerlei Umweltgifte zu finden sind. Zudem hebt es sich durch die schöne Farbe von herkömmlichen Speisesalzen ab. Es ist sehr bekannt durch das erschienenen Buch 2001 “Wasser und Salz Urquell des Lebens”.Wasser und Salz ist lebensnotwendig für uns Menschen um zu existieren.Die lebensnotwendige Stellung des Salzes hängt von den Eigenschaften des Salzes ab.Es ist gut zum Würzen in der Küche man kann auch einen Beauty Tag einlegen denn es ist ein hervorragendes Badesalz. Wir bieten Himalaya Salz in zwei verschiedenen Farben an hellrosa und dunkelrosa. Das grobe pink Himalaya Salz ist zwischen 2-5 mm groß.",
     "name": "Grobes reines Pinkfarbenes Himalaya Salz", 
     "oldprice": "€3.50/kg", 
     "saleprice": "€2.79/kg", 
     "slug": "pink-salt", 
-    "src": "assets/img/portfolio/edible/ancient-ocean-himalayan-pink-salt-coarse-bowl.jpg", 
+    "src": "../assets/img/portfolio/edible/ancient-ocean-himalayan-pink-salt-coarse-bowl.jpg", 
     "title": "Grobes Pinkfarbenes Himalaya Salz by Himalayan Salts" 
   }, 
   { 
     "category": "edible", 
-    "desc": "Fine pink Himalayan salt is unrefined and therefore 100% natural. Himalayan salt is the purest form of salt and contains minerals that are very important for the human body. Pink coloured Himalayan salt gets its colour from the iron content. The occurrence and the degradation methods guarantee a particularly high level of purity. This is the big difference between Himalayan salt and sea salt. Himalaya salt guarantees 100% purity, and the sea salt is contaminated with microplastics as well as environmental toxins from petroleum residues and other pollution. This alone is a plea in favour of Himalayan salt as there are no environmental toxins to be found. In addition, it stands out from conventional table salts thanks to its beautiful colour. It is well known from the published book 2001 “Water & Salt: The Essence of Life”. Water and salt are essential for our existence. The vital position of salt depends on the properties of the salt. It is good for flavouring the kitchen. One can also have a beauty day because it is an excellent bath salt. We offer Himalayan salt in two different colours, light pink and dark pink. The fine pink Himalayan salt is between 0.2-1 mm in size", 
-    "name": "Fine Pink Salt", 
+    "desc": "Feines rosa Himalaya-Salz ist unraffiniert und daher 100% natürlich. Himalaya-Salz ist die reinste Form von Salz und enthält Mineralien, die für den menschlichen Körper sehr wichtig sind. Rosafarbenes Himalaya-Salz erhält seine Farbe durch den Eisengehalt. Das Vorkommen und die Abbaumethoden garantieren eine besonders hohe Reinheit. Dies ist der große Unterschied zwischen Himalaya-Salz und Meersalz. Himalaya-Salz garantiert eine 100-prozentige Reinheit und das Meersalz ist mit Mikroplastik sowie Umweltgiften aus Erdölrückständen und anderen Verschmutzungen belastet. Dies allein ist ein Plädoyer für Himalaya-Salz, da keine Umweltgifte zu finden sind. Außerdem hebt es sich durch seine schöne Farbe von herkömmlichen Speisesalzen ab. Es ist aus dem 2001 erschienenen Buch „Water & Salt: The Essence of Life“ bekannt. Wasser und Salz sind lebensnotwendig. Die lebenswichtige Stellung des Salzes hängt von den Eigenschaften des Salzes ab. Es ist gut, um die Küche zu würzen. Man kann auch einen Schönheitstag haben, denn es ist ein ausgezeichnetes Badesalz. Wir bieten Himalaya-Salz in zwei verschiedenen Farben an, hellrosa und dunkelrosa. Das feine rosa Himalayasalz ist zwischen 0,2-1 mm groß", 
+    "name": "Feines rosa Salz", 
     "oldprice": "€ 3.60/kg ", 
     "saleprice": "€3.00/kg", 
     "slug": "fine-pink-salt", 
-    "src": "assets/img/portfolio/edible/ancient-ocean-himalayan-pink-salt-fine-bowl.jpg", 
+    "src": "../assets/img/portfolio/edible/ancient-ocean-himalayan-pink-salt-fine-bowl.jpg", 
     "title": "Fine Pink Salt by Himalayan Salts" 
   }, 
   { 
@@ -36,18 +33,18 @@ Das grobe pink Himalaya Salz ist zwischen 2-5 mm groß.
     "oldprice": "€3.99/kg ", 
     "saleprice": "€3.55/kg ", 
     "slug": "granular-pink-salt",  
-    "src": "assets/img/portfolio/edible/ancient-ocean-himalayan-pink-salt-small-bowl.jpg", 
+    "src": "../assets/img/portfolio/edible/ancient-ocean-himalayan-pink-salt-small-bowl.jpg", 
     "title": "Granular Salt by Himalayan Salts" 
   }, 
   { 
     "category": "edible", 
-    "desc": "Not available at the moment", 
-    "name": "Iodized Salt",  
+    "desc": "Im Moment nicht verfügbar", 
+    "name": "Jodiertes Salz",  
     "oldprice": "€3.50/kg ", 
     "saleprice": "€3.00/kg ", 
     "slug": "iodized-salt",  
-    "src": "assets/img/portfolio/edible/iodized-salt-fine-bowl.jpg", 
-    "title": "Iodized Salt by Himalayan Salts" 
+    "src": "../assets/img/portfolio/edible/iodized-salt-fine-bowl.jpg", 
+    "title": "Jodiertes Salz by Himalayan Salts" 
   }, 
   { 
     "category": "edible", 
@@ -56,40 +53,40 @@ Das grobe pink Himalaya Salz ist zwischen 2-5 mm groß.
     "oldprice": "€9.00/500g", 
     "saleprice": "€7.5/500g ", 
     "slug": "black-salt",  
-    "src": "assets/img/portfolio/edible/kala-namak-indian-black-salt.jpg",  
+    "src": "../assets/img/portfolio/edible/kala-namak-indian-black-salt.jpg",  
     "title": "Himalaya Schwarz Salz by Himalayan Salts" 
   }, 
   { 
     "category": "edible", 
-    "desc": "Not available!", 
-    "name": "Australian Sea Salt",  
+    "desc": "Im Moment nicht verfügbar", 
+    "name": "Australisches Meersalz",  
     "oldprice": "€20.00/500g", 
     "saleprice": "€19.00/500g", 
     "slug": "australian-sea-salt",  
-    "src": "assets/img/portfolio/edible/paragon-australian-sea-salt-fine-bowl.jpg",  
-    "title": "Australian Sea Salt by Himalayan Salts" 
+    "src": "../assets/img/portfolio/edible/paragon-australian-sea-salt-fine-bowl.jpg",  
+    "title": "Australisches Meersalz by Himalayan Salts" 
   }, 
   { 
     "category": "edible", 
-    "desc": " Not available!", 
-    "name": "Ocean Salt",  
+    "desc": "Im Moment nicht verfügbar", 
+    "name": "Ozeansalz",  
     "oldprice": "€20.00", 
     "saleprice": "€18.00", 
     "slug": "ocean-salt",  
-    "src": "assets/img/portfolio/edible/pure-ocean-premium-sea-salt-fine-bulk-bowl.jpg",  
-    "title": "Ocean Salt by Himalayan Salts" 
+    "src": "../assets/img/portfolio/edible/pure-ocean-premium-sea-salt-fine-bulk-bowl.jpg",  
+    "title": "Ozeansalz by Himalayan Salts" 
   }, 
   { 
     "category": "lamps", 
-    "desc": "Angel sign gives you the feeling of trust,protection and blessing in your life. The lamp looks amazing and gives the image of protection, spirituality and enriches the healing powers of salt. These vibrational vibes by your side help you to fulfill your life mission. Includes 1 light bulb,1 m cable with socket and wooden base.", 
-    "name": "Angel Salt Lamp",  
+    "desc": "Engelszeichen gibt Ihnen das Gefühl von Vertrauen, Schutz und Segen in Ihrem Leben. Die Lampe sieht toll aus und vermittelt das Bild von Schutz, Spiritualität und bereichert die Heilkräfte des Salzes. Diese Schwingungsschwingungen an deiner Seite helfen dir, deine Lebensaufgabe zu erfüllen. Inklusive 1 Glühbirne, 1 m Kabel mit Fassung und Holzsockel.", 
+    "name": "Engel Salzlampe",  
     "saleprice": "30.99 €", 
     "oldprice": "35.00 €", 
     "slug": "angel-salt-lamp",  
     "size": "20x15x7cm", 
     "weight": "2.5-3 kg", 
-    "src": "assets/img/portfolio/lamps/angel.png",  
-    "title": "Angel Salt Lamp by Himalayan Salts" 
+    "src": "../assets/img/portfolio/lamps/angel.png",  
+    "title": "Engel Salzlampe by Himalayan Salts" 
 
   }, 
   { 
@@ -101,7 +98,7 @@ Das grobe pink Himalaya Salz ist zwischen 2-5 mm groß.
     "slug": "boat-salt-lamp",  
     "size": "15x15cm", 
     "weight": "2.5-3 kg", 
-    "src": "assets/img/portfolio/lamps/boat.png",  
+    "src": "../assets/img/portfolio/lamps/boat.png",  
     "title": "Boot Salz Lampe by Himalayan Salts" 
   }, 
   { 
@@ -113,7 +110,7 @@ Das grobe pink Himalaya Salz ist zwischen 2-5 mm groß.
     "slug": "bowl-salt-lamp",  
     "size": "15x15 cm", 
     "weight": "2-2.5 kg", 
-    "src": "assets/img/portfolio/lamps/bowl.png",  
+    "src": "../assets/img/portfolio/lamps/bowl.png",  
     "title": "Schüssel Salz Lampe by Himalayan Salts" 
   }, 
   { 
@@ -125,7 +122,7 @@ Das grobe pink Himalaya Salz ist zwischen 2-5 mm groß.
     "slug": "bowl-2-salt-lamp",  
     "size": "15x10x15 cm", 
     "weight": "3-3.5 kg", 
-    "src": "assets/img/portfolio/lamps/bowl-2.jpg",  
+    "src": "../assets/img/portfolio/lamps/bowl-2.jpg",  
     "title": "Feuerschüssel Lampe by Himalayan Salts" 
 
   }, 
@@ -138,7 +135,7 @@ Das grobe pink Himalaya Salz ist zwischen 2-5 mm groß.
     "slug": "bullet-salt-lamp",  
     "size": "8-10 cm", 
     "weight": "1 kg", 
-    "src": "assets/img/portfolio/lamps/bullet.png",   
+    "src": "../assets/img/portfolio/lamps/bullet.png",   
     "title": "Kugelhalter Salt Lamp by Himalayan Salts" 
 
   }, 
@@ -151,7 +148,7 @@ Das grobe pink Himalaya Salz ist zwischen 2-5 mm groß.
     "slug": "cactus-salt-lamp",  
     "size": "15-20 cm", 
     "weight": "2.5-3 kg", 
-    "src": "assets/img/portfolio/lamps/cactus.png",   
+    "src": "../assets/img/portfolio/lamps/cactus.png",   
     "title": "Kaktus Salz Lampe by Himalayan Salts" 
   }, 
   { 
@@ -163,7 +160,7 @@ Das grobe pink Himalaya Salz ist zwischen 2-5 mm groß.
     "slug": "cave-salt-lamp",  
     "size": "10x11x13 cm", 
     "weight": "1.5-2 kg", 
-    "src": "assets/img/portfolio/lamps/cave.png",   
+    "src": "../assets/img/portfolio/lamps/cave.png",   
     "title": "Höhlenkerzen Halter by Himalayan Salts" 
   }, 
   { 
@@ -175,7 +172,7 @@ Das grobe pink Himalaya Salz ist zwischen 2-5 mm groß.
     "slug": "christmas-tree-salt-lamp",  
     "size": "17-20 cm", 
     "weight": "2-2.5 kg", 
-    "src": "assets/img/portfolio/lamps/christmas-tree.png",   
+    "src": "../assets/img/portfolio/lamps/christmas-tree.png",   
     "title": "Weihnachtsbaums Salz Lampe by Himalayan Salts" 
   }, 
   { 
@@ -187,7 +184,7 @@ Das grobe pink Himalaya Salz ist zwischen 2-5 mm groß.
     "slug": "cross-salt-lamp",  
     "size": "25x25x10 cm", 
     "weight": "2-2.5 kg", 
-    "src": "assets/img/portfolio/lamps/cross.png",   
+    "src": "../assets/img/portfolio/lamps/cross.png",   
     "title": "Kreuz Salz Lampe by Himalayan Salts" 
   }, 
   { 
@@ -199,20 +196,20 @@ Das grobe pink Himalaya Salz ist zwischen 2-5 mm groß.
     "slug": "cubical-salt-lamp",  
     "size": "20x20x24 cm", 
     "weight": "4.5-6 kg", 
-    "src": "assets/img/portfolio/lamps/cubical-1.jpg",   
+    "src": "../assets/img/portfolio/lamps/cubical-1.jpg",   
     "title": "Kubische Salz Lampe by Himalayan Salts" 
   }, 
   { 
     "category": "lamps", 
-    "desc": "The fine polished cubical lamp is an eyecatcher and gives a mesmerizing look.The cubic salt lamp impresses with its shape. It improves the indoor climate, creates a great atmosphere to relax and feel good. The cubic lamp not only decorates the room with its light, but also attracts the attention of visitors. Includes 1 light bulb,1 m cable with socket and wooden base.", 
-    "name": "Cubical Salt Lamp",  
+    "desc": "Die fein polierte kubische Lampe ist ein Hingucker und verleiht einen hypnotisierenden Look. Die kubische Salzlampe besticht durch ihre Form. Es verbessert das Raumklima, schafft eine tolle Atmosphäre zum Entspannen und Wohlfühlen. Die kubische Leuchte schmückt mit ihrem Licht nicht nur den Raum, sondern zieht auch die Aufmerksamkeit der Besucher auf sich. Inklusive 1 Glühbirne, 1 m Kabel mit Fassung und Holzsockel.", 
+    "name": "Kubische Salzlampe",  
     "saleprice": "27.99 €", 
     "oldprice": "28.99 €", 
     "slug": "cubical-2-salt-lamp",  
     "size": "10x10x12 cm", 
     "weight": "2-2.5 kg", 
-    "src": "assets/img/portfolio/lamps/cubical-2.png",   
-    "title": "Cubical Salt Lamp by Himalayan Salts" 
+    "src": "../assets/img/portfolio/lamps/cubical-2.png",   
+    "title": "Kubische Salzlampe by Himalayan Salts" 
   }, 
   { 
     "category": "lamps", 
@@ -223,7 +220,7 @@ Das grobe pink Himalaya Salz ist zwischen 2-5 mm groß.
     "slug": "cubical-3-salt-lamp",  
     "size": "20x20x24 cm", 
     "weight": "4.5-6 kg", 
-    "src": "assets/img/portfolio/lamps/cubical-3.png",   
+    "src": "../assets/img/portfolio/lamps/cubical-3.png",   
     "title": "Karo kubische Salz Lampe by Himalayan Salts" 
   }, 
   { 
@@ -235,7 +232,7 @@ Das grobe pink Himalaya Salz ist zwischen 2-5 mm groß.
     "slug": "cylinderical-salt-lamp",  
     "size": "16x10 cm", 
     "weight": "2-2.5 kg", 
-    "src": "assets/img/portfolio/lamps/cylinder.png",   
+    "src": "../assets/img/portfolio/lamps/cylinder.png",   
     "title": "Zylindrische Salz Lampe by Himalayan Salts" 
   }, 
   { 
@@ -247,7 +244,7 @@ Das grobe pink Himalaya Salz ist zwischen 2-5 mm groß.
     "slug": "date-salt-lamp",  
     "size": "15x15x10 cm", 
     "weight": "2-2.5 kg", 
-    "src": "assets/img/portfolio/lamps/date.png",   
+    "src": "../assets/img/portfolio/lamps/date.png",   
     "title": "Floral Lampe by Himalayan Salts" 
   }, 
   { 
@@ -259,7 +256,7 @@ Das grobe pink Himalaya Salz ist zwischen 2-5 mm groß.
     "slug": "diamond-salt-lamp",  
     "size": "15x12x12 cm", 
     "weight": "2.5-3 kg", 
-    "src": "assets/img/portfolio/lamps/diamond.png",   
+    "src": "../assets/img/portfolio/lamps/diamond.png",   
     "title": "Diamanten Salz Kerze by Himalayan Salts" 
   }, 
   { 
@@ -271,7 +268,7 @@ Das grobe pink Himalaya Salz ist zwischen 2-5 mm groß.
     "slug": "diamond-2-salt-lamp",  
     "size": "15x12x12 cm", 
     "weight": "2.5-3 kg", 
-    "src": "assets/img/portfolio/lamps/dimaond-2.png",   
+    "src": "../assets/img/portfolio/lamps/dimaond-2.png",   
     "title": "Diamanten Salz Lampe by Himalayan Salts" 
   }, 
   { 
@@ -283,7 +280,7 @@ Das grobe pink Himalaya Salz ist zwischen 2-5 mm groß.
     "slug": "dollar-salt-lamp",  
     "size": "10x10x7 cm", 
     "weight": "2.5-3 kg", 
-    "src": "assets/img/portfolio/lamps/dollar.png",   
+    "src": "../assets/img/portfolio/lamps/dollar.png",   
     "title": "Dollar Salz Lampe by Himalayan Salts" 
   }, 
   { 
@@ -295,7 +292,7 @@ Das grobe pink Himalaya Salz ist zwischen 2-5 mm groß.
     "slug": "drum-salt-lamp",  
     "size": "15x15x15 cm", 
     "weight": "1-1.5 kg", 
-    "src": "assets/img/portfolio/lamps/drum.png",   
+    "src": "../assets/img/portfolio/lamps/drum.png",   
     "title": "Trommel Salz by Himalayan Salts" 
   }, 
   { 
@@ -307,7 +304,7 @@ Das grobe pink Himalaya Salz ist zwischen 2-5 mm groß.
     "slug": "egg-salt-lamp",  
     "size": "15x15 cm", 
     "weight": "2.5-3.5 kg", 
-    "src": "assets/img/portfolio/lamps/egg.png",   
+    "src": "../assets/img/portfolio/lamps/egg.png",   
     "title": "Ei Salz Lampe by Himalayan Salts" 
   }, 
   { 
@@ -319,7 +316,7 @@ Das grobe pink Himalaya Salz ist zwischen 2-5 mm groß.
     "slug": "eye-salt-lamp",  
     "size": "13x8x5 cm", 
     "weight": "1-1.5 kg", 
-    "src": "assets/img/portfolio/lamps/eye.png",   
+    "src": "../assets/img/portfolio/lamps/eye.png",   
     "title": "Augen Kerzenhalter by Himalayan Salts" 
   }, 
   { 
@@ -331,20 +328,20 @@ Das grobe pink Himalaya Salz ist zwischen 2-5 mm groß.
     "slug": "fire-bowl-salt-lamp",  
     "size": "15x10x10 cm", 
     "weight": "3-3.5 kg", 
-    "src": "assets/img/portfolio/lamps/fire-bowl.png",   
+    "src": "../assets/img/portfolio/lamps/fire-bowl.png",   
     "title": "Feuer Salz Lampe by Himalayan Salts" 
   }, 
   { 
     "category": "lamps", 
-    "desc": "Giving the image of flame, it gives the feeling of freshness and warmth. The salt candle lamp ensures a good indoor climate and has a relaxing effect. The warm orange light of the lamp is worth encouraging and relaxing. Salt attracts moisture and absorbs moisture. The red-orange light spectrum helps reduce stress.", 
-    "name": "Flame Salt Lamp",  
+    "desc": "Es gibt das Bild einer Flamme und vermittelt das Gefühl von Frische und Wärme. Die Salzkerzenlampe sorgt für ein gutes Raumklima und wirkt entspannend. Das warme orange Licht der Lampe ist ermutigend und entspannend. Salz zieht Feuchtigkeit an und nimmt Feuchtigkeit auf. Das rot-orange Lichtspektrum hilft Stress abzubauen.", 
+    "name": "Flammensalzlampe",  
     "saleprice": "10.99 €", 
     "oldprice": "12.00 €", 
     "slug": "flame-salt-lamp",  
     "size": "10x8 cm", 
     "weight": "1 kg", 
-    "src": "assets/img/portfolio/lamps/flame.png",   
-    "title": "Flame Salt Lamp by Himalayan Salts" 
+    "src": "../assets/img/portfolio/lamps/flame.png",   
+    "title": "Flammensalzlampe by Himalayan Salts" 
   }, 
   { 
     "category": "lamps", 
@@ -355,20 +352,20 @@ Das grobe pink Himalaya Salz ist zwischen 2-5 mm groß.
     "slug": "flower-salt-lamp",  
     "size": "10x10x10 cm", 
     "weight": "1-1.5 kg", 
-    "src": "assets/img/portfolio/lamps/flower.png",   
+    "src": "../assets/img/portfolio/lamps/flower.png",   
     "title": "Blumen Kristallsalz Lampe by Himalayan Salts" 
   }, 
   { 
     "category": "lamps", 
-    "desc": "The salt crystal lamp has the shape of a rose. It impresses with its design. When it shines with its orange light, it creates a good room climate, improves energy, ensures relaxation, reduces sleep disorders and reduces stress. The flower crystal salt lamp creates a floral atmosphere with a warm light spectrum. Includes 1 light bulb,1 m cable with socket and wooden base.", 
-    "name": "Flower Salt Lamp",  
+    "desc": "Die Salzkristalllampe hat die Form einer Rose. Es besticht durch sein Design. Wenn es mit seinem orangefarbenen Licht erstrahlt, schafft es ein gutes Raumklima, verbessert die Energie, sorgt für Entspannung, reduziert Schlafstörungen und baut Stress ab. Die Blumenkristall-Salzlampe schafft eine florale Atmosphäre mit einem warmen Lichtspektrum. Inklusive 1 Glühbirne, 1 m Kabel mit Fassung und Holzsockel.", 
+    "name": "Blumensalzlampe",  
     "saleprice": "33.99 €", 
     "oldprice": "36.00 €", 
     "slug": "flower-2-salt-lamp",  
     "size": "20x15 cm", 
     "weight": "3-3.5 kg", 
-    "src": "assets/img/portfolio/lamps/flower-2.png",   
-    "title": "Flower Salt Lamp by Himalayan Salts" 
+    "src": "../assets/img/portfolio/lamps/flower-2.png",   
+    "title": "Blumensalzlampe by Himalayan Salts" 
   }, 
   { 
     "category": "lamps", 
@@ -379,7 +376,7 @@ Das grobe pink Himalaya Salz ist zwischen 2-5 mm groß.
     "slug": "fort-salt-lamp",  
     "size": "20-25 cm", 
     "weight": "3-3.5 kg", 
-    "src": "assets/img/portfolio/lamps/fort.png",   
+    "src": "../assets/img/portfolio/lamps/fort.png",   
     "title": "Schloss Salzkristall Lampe by Himalayan Salts" 
   }, 
   { 
@@ -391,7 +388,7 @@ Das grobe pink Himalaya Salz ist zwischen 2-5 mm groß.
     "slug": "globe-salt-lamp",  
     "size": "15x15 cm", 
     "weight": "2.5-3 kg", 
-    "src": "assets/img/portfolio/lamps/globe-1.jpg",   
+    "src": "../assets/img/portfolio/lamps/globe-1.jpg",   
     "title": "Welt Salzkristall Lampe by Himalayan Salts" 
   }, 
   { 
@@ -403,7 +400,7 @@ Das grobe pink Himalaya Salz ist zwischen 2-5 mm groß.
     "slug": "globe-2-salt-lamp",  
     "size": "15x15 cm", 
     "weight": "2.5-3 kg", 
-    "src": "assets/img/portfolio/lamps/globe-2.png",   
+    "src": "../assets/img/portfolio/lamps/globe-2.png",   
     "title": "Salzkristall Lampe by Himalayan Salts" 
   }, 
   { 
@@ -415,7 +412,7 @@ Das grobe pink Himalaya Salz ist zwischen 2-5 mm groß.
     "slug": "heart-salt-lamp",  
     "size": "10x10 cm", 
     "weight": "1 kg", 
-    "src": "assets/img/portfolio/lamps/heart.png",   
+    "src": "../assets/img/portfolio/lamps/heart.png",   
     "title": "Herz Kerzenhalter by Himalayan Salts" 
   }, 
   { 
@@ -427,7 +424,7 @@ Das grobe pink Himalaya Salz ist zwischen 2-5 mm groß.
     "slug": "heart-2-salt-lamp",  
     "size": "10x17x17 cm", 
     "weight": "3-3.5 kg", 
-    "src": "assets/img/portfolio/lamps/heart-2.png",   
+    "src": "../assets/img/portfolio/lamps/heart-2.png",   
     "title": "Herz Salz Lampe by Himalayan Salts" 
   }, 
   { 
@@ -439,7 +436,7 @@ Das grobe pink Himalaya Salz ist zwischen 2-5 mm groß.
     "slug": "leaf-salt-lamp",  
     "size": "15x20 cm", 
     "weight": "2.5-3 kg", 
-    "src": "assets/img/portfolio/lamps/leaf.png", 
+    "src": "../assets/img/portfolio/lamps/leaf.png", 
     "title": "Kerzen Blatt Halter by Himalayan Salts" 
   }, 
   { 
@@ -451,7 +448,7 @@ Das grobe pink Himalaya Salz ist zwischen 2-5 mm groß.
     "slug": "leaf-2-salt-lamp",  
     "size": "10x12 cm", 
     "weight": "1 kg", 
-    "src": "assets/img/portfolio/lamps/leaf-2.png",   
+    "src": "../assets/img/portfolio/lamps/leaf-2.png",   
     "title": "Blatt Salzkristall Lampe by Himalayan Salts" 
   }, 
   { 
@@ -463,32 +460,32 @@ Das grobe pink Himalaya Salz ist zwischen 2-5 mm groß.
     "slug": "lotus-salt-lamp",  
     "size": "20x15 cm", 
     "weight": "3-3.5 kg", 
-    "src": "assets/img/portfolio/lamps/lotus.png",   
+    "src": "../assets/img/portfolio/lamps/lotus.png",   
     "title": "Lotus Salz Lampe by Himalayan Salts" 
   }, 
   { 
     "category": "lamps", 
-    "desc": "The mushroom salt crystal lamp is made by its shape. It is a natural product. The salt lamp is free from environmental toxins. The salt crystal improves the air you breathe, creates a good room climate, it allows you to relax and feel good. Mushroom lovers! here is another customized show piece for you, to make you smile and your day bright. Includes 1 light bulb,1 m cable with socket and wooden base.", 
-    "name": "Mushroom Salt Lamp",  
+    "desc": "Die Pilzsalzkristalllampe zeichnet sich durch ihre Form aus. Es ist ein Naturprodukt. Die Salzlampe ist frei von Umweltgiften. Der Salzkristall verbessert die Atemluft, schafft ein gutes Raumklima, lässt Sie sich entspannen und wohlfühlen. Pilzliebhaber! Hier ist ein weiteres maßgeschneidertes Ausstellungsstück für Sie, das Ihnen ein Lächeln und einen strahlenden Tag verleiht. Inklusive 1 Glühbirne, 1 m Kabel mit Fassung und Holzsockel.", 
+    "name": "Pilzsalzlampe",  
     "saleprice": "35.99 €", 
     "oldprice": "40.00 €", 
     "slug": "mushroom-salt-lamp",  
     "size": "20x15x10 cm", 
     "weight": "2.5-3 kg", 
-    "src": "assets/img/portfolio/lamps/mushroom.png",   
-    "title": "Mushroom Salt Lamp by Himalayan Salts" 
+    "src": "../assets/img/portfolio/lamps/mushroom.png",   
+    "title": "Pilzsalzlampe by Himalayan Salts" 
   }, 
   { 
     "category": "lamps", 
-    "desc": "The four candles salt crystal lamp impresses with its natural shape. It gives a warm, comfortable light, creates positive energy and a good atmosphere. The lamp cleans the room air, ensures relaxation and creates well-being.", 
-    "name": "Natural Salt Lamp",  
+    "desc": "Die Salzkristalllampe mit vier Kerzen besticht durch ihre natürliche Form. Sie spendet ein warmes, angenehmes Licht, erzeugt positive Energie und eine gute Atmosphäre. Die Leuchte reinigt die Raumluft, sorgt für Entspannung und schafft Wohlbefinden.", 
+    "name": "Natürliche Salzlampe",  
     "saleprice": "13.99 €", 
     "oldprice": "15.00 €", 
     "slug": "4 Candles salt lamp",  
     "size": "15x10 cm", 
     "weight": "2-2.5 kg", 
-    "src": "assets/img/portfolio/lamps/natural-1.png",   
-    "title": "Natural Salt Lamp by Himalayan Salts"  
+    "src": "../assets/img/portfolio/lamps/natural-1.png",   
+    "title": "Natürliche Salzlampe by Himalayan Salts"  
   }, 
   { 
     "category": "lamps", 
@@ -499,7 +496,7 @@ Das grobe pink Himalaya Salz ist zwischen 2-5 mm groß.
     "slug": "octane-salt-lamp",  
     "size": "15x20 cm", 
     "weight": "2.5-3 kg", 
-    "src": "assets/img/portfolio/lamps/octacone.png",   
+    "src": "../assets/img/portfolio/lamps/octacone.png",   
     "title": "Oktan Salzkristall Lampe by Himalayan Salts" 
   }, 
   { 
@@ -511,7 +508,7 @@ Das grobe pink Himalaya Salz ist zwischen 2-5 mm groß.
     "slug": "orchid-salt-lamp",  
     "size": "10x10x20 cm", 
     "weight": "2.5-3 kg", 
-    "src": "assets/img/portfolio/lamps/orchid.png",   
+    "src": "../assets/img/portfolio/lamps/orchid.png",   
     "title": "Orchidee Salzkristall Lampe by Himalayan Salts" 
   }, 
   { 
@@ -523,7 +520,7 @@ Das grobe pink Himalaya Salz ist zwischen 2-5 mm groß.
     "slug": "oval-salt-lamp",  
     "size": "15x15x20 cm", 
     "weight": "3.5-5 kg", 
-    "src": "assets/img/portfolio/lamps/oval.jpg",   
+    "src": "../assets/img/portfolio/lamps/oval.jpg",   
     "title": "Ovale Salzkristall Lampe by Himalayan Salts" 
   }, 
   { 
@@ -535,7 +532,7 @@ Das grobe pink Himalaya Salz ist zwischen 2-5 mm groß.
     "slug": "palm-salt-lamp",  
     "size": "20x15x10 cm", 
     "weight": "2.5-3 kg", 
-    "src": "assets/img/portfolio/lamps/palm.png",   
+    "src": "../assets/img/portfolio/lamps/palm.png",   
     "title": "Palm Salzkristall Lampe by Himalayan Salts" 
   }, 
   { 
@@ -547,7 +544,7 @@ Das grobe pink Himalaya Salz ist zwischen 2-5 mm groß.
     "slug": "pyramid-salt-lamp",  
     "size": "15x20 cm", 
     "weight": "2.5-3 kg", 
-    "src": "assets/img/portfolio/lamps/pyramid.png",   
+    "src": "../assets/img/portfolio/lamps/pyramid.png",   
     "title": "Klein Pyramide Salzkristall Lampe by Himalayan Salts" 
   }, 
   { 
@@ -559,7 +556,7 @@ Das grobe pink Himalaya Salz ist zwischen 2-5 mm groß.
     "slug": "pyramid-2-salt-lamp",  
     "size": "15x20 cm", 
     "weight": "2.5-3 kg", 
-    "src": "assets/img/portfolio/lamps/pyramid-2.jpg",   
+    "src": "../assets/img/portfolio/lamps/pyramid-2.jpg",   
     "title": "Groß Pyramide Salzkristall Lampe by Himalayan Salts" 
   }, 
   { 
@@ -571,7 +568,7 @@ Das grobe pink Himalaya Salz ist zwischen 2-5 mm groß.
     "slug": "rectangular-salt-lamp",  
     "size": " 15x6 cm", 
     "weight": "1-1.5 kg", 
-    "src": "assets/img/portfolio/lamps/rectanular-1.png",   
+    "src": "../assets/img/portfolio/lamps/rectanular-1.png",   
     "title": "für drei Kerzen Salzkristall Halter by Himalayan Salts" 
   }, 
   { 
@@ -583,7 +580,7 @@ Das grobe pink Himalaya Salz ist zwischen 2-5 mm groß.
     "slug": "rectangular-2-salt-lamp",  
     "size": "18x6 cm", 
     "weight": "1.5-2 kg", 
-    "src": "assets/img/portfolio/lamps/rectanular-2.png",   
+    "src": "../assets/img/portfolio/lamps/rectanular-2.png",   
     "title": "für vier Kerzen Salzkristall Halter by Himalayan Salts" 
   }, 
   { 
@@ -595,7 +592,7 @@ Das grobe pink Himalaya Salz ist zwischen 2-5 mm groß.
     "slug": "rectangular-3-salt-lamp",  
     "size": "10x6 cm ", 
     "weight": "1 kg", 
-    "src": "assets/img/portfolio/lamps/rectanular-3.png",   
+    "src": "../assets/img/portfolio/lamps/rectanular-3.png",   
     "title": "für zwei Kerzen Salzkristall Halter by Himalayan Salts" 
   }, 
   { 
@@ -607,7 +604,7 @@ Das grobe pink Himalaya Salz ist zwischen 2-5 mm groß.
     "slug": "rectangular-4-salt-lamp",  
     "size": "20x6 cm", 
     "weight": "2-2.5 kg", 
-    "src": "assets/img/portfolio/lamps/rectanular-4.png",   
+    "src": "../assets/img/portfolio/lamps/rectanular-4.png",   
     "title": "für fünf Kerzen Salzkristall Halter by Himalayan Salts" 
   }, 
   { 
@@ -619,7 +616,7 @@ Das grobe pink Himalaya Salz ist zwischen 2-5 mm groß.
     "slug": "round-salt-lamp",  
     "size": "8-10 cm", 
     "weight": "1 kg", 
-    "src": "assets/img/portfolio/lamps/round.png",   
+    "src": "../assets/img/portfolio/lamps/round.png",   
     "title": "Runde Salzkristall Lampe by Himalayan Salts" 
   }, 
   { 
@@ -631,20 +628,20 @@ Das grobe pink Himalaya Salz ist zwischen 2-5 mm groß.
     "slug": "circular-salt-block",  
     "size": " 20x20x4 cm", 
     "weight": "3-3.5 kg", 
-    "src": "assets/img/portfolio/tiles/circle-block.jpg",   
+    "src": "../assets/img/portfolio/tiles/circle-block.jpg",   
     "title": "Runde Salzkristall Block by Himalayan Salts" 
   }, 
   { 
     "category": "tiles", 
-    "desc": "The Rectangular Salt Crystal Plate is a good therapist in your home and has a low hourly wage. The salt crystal plate is known for its versatility. A rectangular Himalayan salt made from a plate of natural solid rock salt is a master in its field. It fits well in any room and adds value to the interior of your home. It is an optical master in the shiny rooms and is characterized by its beautiful warm light. The indoor air is great and lets you breathe easily. It drives away unpleasant smells and makes you feel relax in the good atmosphere.", 
-    "name": "Rectangular Salt Brick",  
+    "desc": "Der rechteckige Salzkristallteller ist ein guter Therapeut in Ihrem Zuhause und hat einen niedrigen Stundenlohn. Die Salzkristallplatte ist bekannt für ihre Vielseitigkeit. Ein rechteckiges Himalaya-Salz aus einer Platte aus natürlichem festen Steinsalz ist ein Meister seines Fachs. Es passt gut in jeden Raum und wertet das Interieur Ihres Hauses auf. Sie ist ein optischer Meister in den glänzenden Räumen und zeichnet sich durch ihr schönes warmes Licht aus. Die Raumluft ist großartig und lässt Sie leicht atmen. Es vertreibt unangenehme Gerüche und lässt Sie sich in der guten Atmosphäre entspannen.", 
+    "name": "Rechteckiger Salzziegel",  
     "oldprice": "€7.99", 
     "saleprice": "€10.00", 
     "slug": "rectangular-salt-brick", 
     "size": " 20x10x2.5 cm", 
     "weight": "1-1.5 kg",  
-    "src": "assets/img/portfolio/tiles/rect_brick.jpg",   
-    "title": "Rectangular Salt Brick by Himalayan Salts" 
+    "src": "../assets/img/portfolio/tiles/rect_brick.jpg",   
+    "title": "Rechteckiger Salzziegel by Himalayan Salts" 
   }, 
   { 
     "category": "tiles", 
@@ -655,7 +652,7 @@ Das grobe pink Himalaya Salz ist zwischen 2-5 mm groß.
     "slug": "rectangular-salt-plate", 
     "size": "20x20x2.5 cm", 
     "weight": "kg", 
-    "src": "assets/img/portfolio/tiles/rect-plate.jpg",   
+    "src": "../assets/img/portfolio/tiles/rect-plate.jpg",   
     "title": "Rechteckige Salzkristall Platte  by Himalayan Salts" 
   }, 
   { 
@@ -667,7 +664,7 @@ Das grobe pink Himalaya Salz ist zwischen 2-5 mm groß.
     "slug": "circular-salt-tile",  
     "size": " 20x20x4 cm", 
     "weight": "3-3.5 kg", 
-    "src": "assets/img/portfolio/tiles/circle-2.png",   
+    "src": "../assets/img/portfolio/tiles/circle-2.png",   
     "title": "Runde Salzkristall Platte by Himalayan Salts" 
   }, 
   { 
@@ -679,7 +676,7 @@ Das grobe pink Himalaya Salz ist zwischen 2-5 mm groß.
     "slug": "animal-lick-salt", 
     "size": " cm", 
     "weight": "kg", 
-    "src": "assets/img/portfolio/lick/lick-1.png",   
+    "src": "../assets/img/portfolio/lick/lick-1.png",   
     "title": "Himalaya Salz Leckstein by Himalayan Salts" 
   }, 
   { 
@@ -689,17 +686,17 @@ Das grobe pink Himalaya Salz ist zwischen 2-5 mm groß.
     "oldprice": "€3.50/kg", 
     "saleprice": "€1.90/kg", 
     "slug": "animal-2-lick-salt",  
-    "src": "assets/img/portfolio/lick/lick-2.png",   
+    "src": "../assets/img/portfolio/lick/lick-2.png",   
     "title": "Himalaya Salz Leckstein by Himalayan Salts" 
   }, 
   { 
     "category": "lick", 
-    "desc": "The Himalayan salt lick stone is used in agriculture and precisely covers the mineral requirements of an animal. An animal cannot live without mineral intake. Despite the daily feed, you should make sure that optimal performance and a resilient physical condition are guaranteed. So that there are no deficiency symptoms. Among other things, sodium maintains the osmotic pressure in the cells, it regulates the water balance and plays an important role in the transmission of impulses in nerve tissue and muscle fibers. Magnesium is important for muscle, nerve function and bone building. Calcium is an essential component for the transmission of nerve impulses and is required for building bones for blood clotting, it plays an important role. Magnesium is required for mineral and fat metabolism. Zinc is an essential component of numerous proteins which an intact immune system requires. Iodine is essential for thyroid function and metabolism. Copper plays an important role in the formation of nerves, blood, connective tissue and bones. Selenium is a component of many proteins, it is important for antioxidant processes and the iodine metabolism, it is a so-called radical scavenger, irreplaceable for the animal organism", 
-    "name": "Salt Lick Lump",  
+    "desc": "Der Himalaya Salzleckstein wird in der Landwirtschaft verwendet und deckt genau den Mineralstoffbedarf eines Tieres. Ein Tier kann ohne Mineralzufuhr nicht leben. Trotz der täglichen Fütterung sollten Sie darauf achten, dass eine optimale Leistung und eine belastbare körperliche Verfassung gewährleistet sind. Damit keine Mangelerscheinungen auftreten. Natrium hält unter anderem den osmotischen Druck in den Zellen aufrecht, reguliert den Wasserhaushalt und spielt eine wichtige Rolle bei der Impulsübertragung in Nervengewebe und Muskelfasern. Magnesium ist wichtig für die Muskel-, Nervenfunktion und den Knochenaufbau. Calcium ist ein wesentlicher Bestandteil für die Übertragung von Nervenimpulsen und wird für den Knochenaufbau für die Blutgerinnung benötigt, es spielt eine wichtige Rolle. Magnesium wird für den Mineral- und Fettstoffwechsel benötigt. Zink ist ein wesentlicher Bestandteil zahlreicher Proteine, die ein intaktes Immunsystem benötigt. Jod ist für die Schilddrüsenfunktion und den Stoffwechsel unerlässlich. Kupfer spielt eine wichtige Rolle bei der Bildung von Nerven, Blut, Bindegewebe und Knochen. Selen ist Bestandteil vieler Proteine, es ist wichtig für antioxidative Prozesse und den Jodstoffwechsel, es ist ein sogenannter Radikalfänger, unersetzlich für den tierischen Organismus", 
+    "name": "Salzlecken Klumpen",  
     "oldprice": "€5.00/kg", 
     "saleprice": "€3.50/kg", 
     "slug": "salt-lick-lumps",  
-    "src": "assets/img/portfolio/lick/lick-lumps.png",   
-    "title": "Salt Lick Lump by Himalayan Salts" 
+    "src": "../assets/img/portfolio/lick/lick-lumps.png",   
+    "title": "Salzlecken Klumpen by Himalayan Salts" 
 
   }]
