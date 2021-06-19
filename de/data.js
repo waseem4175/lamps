@@ -28,13 +28,13 @@ const data = [
   }, 
   { 
     "category": "edible", 
-    "desc": "Granular Himalayan salt is unrefined and therefore 100% natural. Himalayan salt is the purest form of salt and contains minerals that are very important for the human body. Pink coloured Himalayan salt gets its colour from the iron content. The occurrence and the degradation methods guarantee a particularly high level of purity. This is the big difference between Himalayan salt and sea salt. Himalaya salt guarantees 100% purity, and the sea salt is contaminated with microplastics as well as environmental toxins from petroleum residues and other pollution. This alone is a plea in favour of Himalayan salt as there are no environmental toxins to be found. In addition, it stands out from conventional table salts thanks to its beautiful colour. It is well known from the published book 2001 “Water & Salt: The Essence of Life”. Water and salt are essential for our existence. The vital position of salt depends on the properties of the salt. It is good for flavouring the kitchen. One can also have a beauty day because it is an excellent bath salt. The granular pink Himalayan salt is between 1-4 mm in size", 
-    "name": "Granular Pink Salt",  
+    "desc": "Granulares Himalaya-Salz ist unraffiniert und daher 100% natürlich. Himalaya-Salz ist die reinste Form von Salz und enthält Mineralien, die für den menschlichen Körper sehr wichtig sind. Rosafarbenes Himalaya-Salz erhält seine Farbe durch den Eisengehalt. Das Vorkommen und die Abbaumethoden garantieren eine besonders hohe Reinheit. Dies ist der große Unterschied zwischen Himalaya-Salz und Meersalz. Himalaya-Salz garantiert eine 100-prozentige Reinheit und das Meersalz ist mit Mikroplastik sowie Umweltgiften aus Erdölrückständen und anderen Verschmutzungen belastet. Dies allein ist ein Plädoyer für Himalaya-Salz, da keine Umweltgifte zu finden sind. Außerdem hebt es sich durch seine schöne Farbe von herkömmlichen Speisesalzen ab. Es ist aus dem 2001 erschienenen Buch „Water & Salt: The Essence of Life“ bekannt. Wasser und Salz sind lebensnotwendig. Die lebenswichtige Stellung des Salzes hängt von den Eigenschaften des Salzes ab. Es ist gut, um die Küche zu würzen. Man kann auch einen Schönheitstag haben, denn es ist ein ausgezeichnetes Badesalz. Das körnige rosa Himalayasalz ist zwischen 1-4 mm groß", 
+    "name": "Granulares rosa Salz",  
     "oldprice": "€3.99/kg ", 
     "saleprice": "€3.55/kg ", 
     "slug": "granular-pink-salt",  
     "src": "../assets/img/portfolio/edible/ancient-ocean-himalayan-pink-salt-small-bowl.jpg", 
-    "title": "Granular Salt by Himalayan Salts" 
+    "title": "Granulares rosa Salz by Himalayan Salts" 
   }, 
   { 
     "category": "edible", 
